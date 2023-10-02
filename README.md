@@ -1,7 +1,5 @@
 OIII BEM VINDO AO MEU PERFIL
-
-aluna: Katarina
-
+ig: katarinareis_
 
 
 
